@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chains>
+  <Chain>
+	<Id>1</Id>
+	<ChainId>7290696200003</ChainId>
+	<SubchainId>001</SubchainId>
+	<ChainName>Viktory</ChainName>
+	<XmlFileName>Viktory.xml</XmlFileName>
+	<Stores>
+		<StoreId>068</StoreId>
+	</Stores>
+  </Chain>
+  <Chain>
+	<Id>2</Id>
+	<ChainId>7290058148776</ChainId>
+	<SubchainId>001</SubchainId>
+	<ChainName>ShookHaair</ChainName>
+	<XmlFileName>ShookHaair.xml</XmlFileName>
+  	<Stores>
+		<StoreId>012</StoreId>
+	</Stores>
+  </Chain>
+  <Chain>
+	<Id>3</Id>
+	<ChainId>7290661400001</ChainId>
+	<SubchainId>001</SubchainId>
+	<ChainName>MahsaneyHashook</ChainName>
+	<XmlFileName>MahsaneyHashook.xml</XmlFileName>
+	<Stores>
+		<StoreId>055</StoreId>
+	</Stores>
+  </Chain>
+</Chains>

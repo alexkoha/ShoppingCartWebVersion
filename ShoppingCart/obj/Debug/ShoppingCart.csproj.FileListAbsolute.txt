@@ -1,0 +1,62 @@
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.dll.config
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.ResolveComReference.cache
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\ShoppingCart.dll.config
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\ShoppingCart.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\EntityFramework.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\EntityFramework.xml
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\EntityFramework.BulkInsert.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\obj\Debug\ShoppingCart.csproj.ResolveComReference.cache
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\ShoppingCart.dll.config
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\ShoppingCart.dll
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\obj\Debug\ShoppingCart.csproj.ResolveComReference.cache
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\CodeValue\Desktop\ShoppingCart - Copy\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.dll.config
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.dll
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.ResolveComReference.cache
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\CodeValue\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
